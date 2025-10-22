@@ -82,6 +82,3 @@ Terlalu besar!
 Nyawa tersisa: 5
 
 ... (lanjut sampai menang/kehabisan nyawa)
-
-
-Cocok buat pemula yang mau latihan logika ataupun buat hiburan singkat di terminal.
